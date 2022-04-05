@@ -12,6 +12,9 @@ using System.Windows.Forms;
 
 namespace AppClima
 {
+    //Guillermo Carmona
+    //Dilan Padilla
+    //2M1-IS
     public partial class Form1 : Form
     {
         public Form1()
